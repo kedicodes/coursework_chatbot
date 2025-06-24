@@ -1,0 +1,739 @@
+[
+  {
+  "text": "How can I apply to the university?",
+  "label": "application"
+},
+{
+  "text": "I want to apply to the university",
+  "label": "application"
+},
+{
+  "text": "I want to apply for a degree",
+  "label": "application"
+},
+{
+  "text": "I want to start my application",
+  "label": "application"
+},
+{
+  "text": "Can you guide me through the application process?",
+  "label": "application"
+},
+{
+  "text": "I'm interested in applying to this university.",
+  "label": "application"
+},
+{
+  "text": "What are the steps to apply for admission?",
+  "label": "application"
+},
+{
+  "text": "How do I start my university application?",
+  "label": "application"
+},
+{
+  "text": "I would like to enroll in a program, how do I apply?",
+  "label": "application"
+},
+{
+  "text": "Can I get an application form?",
+  "label": "application"
+},
+{
+  "text": "What is the application deadline for this semester?",
+  "label": "application"
+},
+{
+  "text": "I want to apply for a scholarship, what's the process?",
+  "label": "application"
+},
+{
+  "text": "How do I submit my application documents?",
+  "label": "application"
+},
+{
+  "text": "Can you walk me through the online application portal?",
+  "label": "application"
+},
+{
+  "text": "I'm having trouble with my application, can you assist me?",
+  "label": "application"
+},
+{
+  "text": "What are the required documents for the application?",
+  "label": "application"
+},
+{
+  "text": "Can I apply for multiple programs at once?",
+  "label": "application"
+},
+{
+  "text": "How long does the application review process take?",
+  "label": "application"
+},
+{
+  "text": "I would like to apply for a graduate program, what are the requirements?",
+  "label": "application"
+},
+{
+  "text": "Can I save my application and come back to it later?",
+  "label": "application"
+},
+{
+  "text": "How do I check the status of my application?",
+  "label": "application"
+},
+{
+  "text": "I want to apply as an international student, what's the process?",
+  "label": "application"
+},
+{
+  "text": "Can I get feedback on my application before submitting it?",
+  "label": "application"
+},
+{
+  "text": "Are there any specific requirements for transfer students?",
+  "label": "application"
+},
+{
+  "text": "How are you?",
+  "label": "chitchat"
+},
+{
+  "text": "How are you doing?",
+  "label": "chitchat"
+},
+{
+  "text": "What can you do?",
+  "label": "chitchat"
+},
+{
+  "text": "Do you know any jokes?",
+  "label": "chitchat"
+},
+{
+  "text": "Tell me a joke",
+  "label": "chitchat"
+},
+{
+  "text": "What's your age?",
+  "label": "chitchat"
+},
+{
+  "text": "How old are you?",
+  "label": "chitchat"
+},
+{
+  "text": "Why do you exist?",
+  "label": "chitchat"
+},
+{
+  "text": "Are you hungry?",
+  "label": "chitchat"
+},
+{
+  "text": "When do you eat?",
+  "label": "chitchat"
+},
+{
+  "text": "What do you do??",
+  "label": "chitchat"
+},
+{
+  "text": "What is your name?",
+  "label": "chitchat"
+},
+{
+  "text": "What do I call you?",
+  "label": "chitchat"
+},
+{
+  "text": "Who are you?",
+  "label": "chitchat"
+},
+{
+  "text": "What should I call you?",
+  "label": "chitchat"
+},
+{
+  "text": "What's your name?",
+  "label": "chitchat"
+},
+{
+  "text": "What are you called?",
+  "label": "chitchat"
+},
+{
+  "text": "What do you go by?",
+  "label": "chitchat"
+},
+{
+  "text": "What's your title?",
+  "label": "chitchat"
+},
+{
+  "text": "What do you do?",
+  "label": "chitchat"
+},
+{
+  "text": "*I want to speak to a human",
+  "label": "fallback"
+},
+{
+  "text": "I want to talk to a real person",
+  "label": "fallback"
+},
+{
+  "text": "Can I speak with a representative?",
+  "label": "fallback"
+},
+{
+  "text": "I'd like to escalate this issue",
+  "label": "fallback"
+},
+{
+  "text": "Can you transfer me to a human?",
+  "label": "fallback"
+},
+{
+  "text": "Get me your manager",
+  "label": "fallback"
+},
+{
+  "text": "I want to report a problem",
+  "label": "fallback"
+},
+{
+  "text": "Can you put me through to a supervisor?",
+  "label": "fallback"
+},
+{
+  "text": "I'm having trouble with your system",
+  "label": "fallback"
+},
+{
+  "text": "I need to speak with someone who can help",
+  "label": "fallback"
+},
+{
+  "text": "This chat is not helpful",
+  "label": "fallback"
+},
+{
+  "text": "Can you provide a phone number to call?",
+  "label": "fallback"
+},
+{
+  "text": "I'd like to speak with a customer service agent",
+  "label": "fallback"
+},
+{
+  "text": "I'm not satisfied with the response",
+  "label": "fallback"
+},
+{
+  "text": "Can you escalate this issue to a human?",
+  "label": "fallback"
+},
+{
+  "text": "I want to make a complaint",
+  "label": "fallback"
+},
+{
+  "text": "I need more help than this chat can provide",
+  "label": "fallback"
+},
+{
+  "text": "Can you transfer me to a live agent?",
+  "label": "fallback"
+},
+{
+  "text": "I'm having technical difficulties",
+  "label": "fallback"
+},
+{
+  "text": "I'd like to speak with someone who can assist me better",
+  "label": "fallback"
+},
+{
+  "text": "Bye",
+  "label": "greeting"
+},
+{
+  "text": "See you later",
+  "label": "greeting"
+},
+{
+  "text": "Goodbye",
+  "label": "greeting"
+},
+{
+  "text": "Hi",
+  "label": "greeting"
+},
+{
+  "text": "Hello",
+  "label": "greeting"
+},
+{
+  "text": "Hey",
+  "label": "greeting"
+},
+{
+  "text": "Hi there",
+  "label": "greeting"
+},
+{
+  "text": "Help",
+  "label": "help"
+},
+{
+  "text": "How can you assist?",
+  "label": "help"
+},
+{
+  "text": "How can you help?",
+  "label": "help"
+},
+{
+  "text": "I need assistance",
+  "label": "help"
+},
+{
+  "text": "Can you support me?",
+  "label": "help"
+},
+{
+  "text": "I require help",
+  "label": "help"
+},
+{
+  "text": "How can I get assistance?",
+  "label": "help"
+},
+{
+  "text": "I'm looking for guidance",
+  "label": "help"
+},
+{
+  "text": "Can you aid me?",
+  "label": "help"
+},
+{
+  "text": "I need someone to talk to",
+  "label": "help"
+},
+{
+  "text": "Can you provide support?",
+  "label": "help"
+},
+{
+  "text": "I'm seeking advice",
+  "label": "help"
+},
+{
+  "text": "How can you make my life easier?",
+  "label": "help"
+},
+{
+  "text": "I'm having trouble, can you assist?",
+  "label": "help"
+},
+{
+  "text": "Can you lend a hand?",
+  "label": "help"
+},
+{
+  "text": "I need direction",
+  "label": "help"
+},
+{
+  "text": "Can you provide assistance?",
+  "label": "help"
+},
+{
+  "text": "I'm looking for a solution",
+  "label": "help"
+},
+{
+  "text": "How can you help me achieve my goals?",
+  "label": "help"
+},
+{
+  "text": "I need someone to show me the way",
+  "label": "help"
+},
+{
+  "text": "Can you be my guide?",
+  "label": "help"
+},
+{
+  "text": "I'm seeking a helping hand",
+  "label": "help"
+},
+{
+  "text": "Can you provide me with some help?",
+  "label": "help"
+},
+{
+  "text": "can you tell me the degrees available in UNI?",
+  "label": "study_options"
+},
+{
+  "text": "How many years do we study?",
+  "label": "study_options"
+},
+{
+  "text": "Which degrees do you have in the Faculty of Economics & Management Sciences",
+  "label": "study_options"
+},
+{
+  "text": "Degrees in the EMS faculty",
+  "label": "study_options"
+},
+{
+  "text": "What degrees are available in the Faculty of EMS",
+  "label": "study_options"
+},
+{
+  "text": "Which degrees do you have in the Faculty of Engineering & IT ",
+  "label": "study_options"
+},
+{
+  "text": "Degrees in the Engineering & IT faculty",
+  "label": "study_options"
+},
+{
+  "text": "What degrees are available in the Faculty of Humanities",
+  "label": "study_options"
+},
+{
+  "text": "Which degrees do you have in the Faculty of Humanities ",
+  "label": "study_options"
+},
+{
+  "text": "Degrees in the Humanities faculty",
+  "label": "study_options"
+},
+{
+  "text": "How long does it take to complete a degree",
+  "label": "study_options"
+},
+{
+  "text": "Which degrees do you have in the Faculty of Health Sciences ",
+  "label": "study_options"
+},
+{
+  "text": "Degrees in the Health Sciences faculty",
+  "label": "study_options"
+},
+{
+  "text": "What degrees are available in the Faculty of Health Sciences",
+  "label": "study_options"
+},
+{
+  "text": "What degrees are available in the Faculty of Engineering & IT",
+  "label": "study_options"
+},
+{
+  "text": "How long are your degrees",
+  "label": "study_options"
+},
+{
+  "text": "list of degrees offered",
+  "label": "study_options"
+},
+{
+  "text": "list of degrees offered in",
+  "label": "study_options"
+},
+{
+  "text": "degrees available at UNI?",
+  "label": "study_options"
+},
+{
+  "text": "branches?",
+  "label": "study_options"
+},
+{
+  "text": "degrees you have",
+  "label": "study_options"
+},
+{
+  "text": "degrees you offer",
+  "label": "study_options"
+},
+{
+  "text": "degrees offered in Thuto Ke Lesedi University",
+  "label": "study_options"
+},
+{
+  "text": "degrees offered",
+  "label": "study_options"
+},
+{
+  "text": "degrees?",
+  "label": "study_options"
+},
+{
+  "text": "what are the degrees offered in your college?",
+  "label": "study_options"
+},
+{
+  "text": "can you tell me the branches available in UNI?",
+  "label": "study_options"
+},
+{
+  "text": "list of degrees",
+  "label": "study_options"
+},
+{
+  "text": "What undergraduate programs do you offer?",
+  "label": "study_options"
+},
+{
+  "text": "Can you list the postgraduate degrees available?",
+  "label": "study_options"
+},
+{
+  "text": "I'm interested in studying engineering, what options do I have?",
+  "label": "study_options"
+},
+{
+  "text": "What are the available courses in the Faculty of Law?",
+  "label": "study_options"
+},
+{
+  "text": "Can you tell me more about the programs offered in the Business School?",
+  "label": "study_options"
+},
+{
+  "text": "I'm looking for a degree in environmental science, do you offer it?",
+  "label": "study_options"
+},
+{
+  "text": "What are the admission requirements for the medical program?",
+  "label": "study_options"
+},
+{
+  "text": "Can you provide information on the available scholarships for international students?",
+  "label": "study_options"
+},
+{
+  "text": "I'm interested in pursuing a PhD, what fields of study do you offer?",
+  "label": "study_options"
+},
+{
+  "text": "What are the course structures for the different engineering programs?",
+  "label": "study_options"
+},
+{
+  "text": "Can you give me an overview of the academic programs offered at UNI?",
+  "label": "study_options"
+},
+{
+  "text": "I'm looking for a part-time degree program, what options do I have?",
+  "label": "study_options"
+},
+{
+  "text": "What are the prerequisites for the computer science program?",
+  "label": "study_options"
+},
+{
+  "text": "Can you tell me about the research opportunities available for graduate students?",
+  "label": "study_options"
+},
+{
+  "text": "I'm interested in studying abroad, what programs do you offer?",
+  "label": "study_options"
+},
+{
+  "text": "What are the tuition fees for the different programs?",
+  "label": "study_options"
+},
+{
+  "text": "Can you provide information on the campus facilities and resources?",
+  "label": "study_options"
+},
+{
+  "text": "I'm looking for a degree with a work-integrated learning component, what options do I have?",
+  "label": "study_options"
+},
+{
+  "text": "What are the language requirements for international students?",
+  "label": "study_options"
+},
+{
+  "text": "Thanks",
+  "label": "thanks"
+},
+{
+  "text": "Thank you",
+  "label": "thanks"
+},
+{
+  "text": "That's helpful",
+  "label": "thanks"
+},
+{
+  "text": "Appreciate it",
+  "label": "thanks"
+},
+{
+  "text": "Thanks a lot",
+  "label": "thanks"
+},
+{
+  "text": "You're a lifesaver",
+  "label": "thanks"
+},
+{
+  "text": "I appreciate your help",
+  "label": "thanks"
+},
+{
+  "text": "Thanks for your assistance",
+  "label": "thanks"
+},
+{
+  "text": "That was really helpful",
+  "label": "thanks"
+},
+{
+  "text": "I'm grateful for your support",
+  "label": "thanks"
+},
+{
+  "text": "Thanks for explaining that",
+  "label": "thanks"
+},
+{
+  "text": "I owe you one",
+  "label": "thanks"
+},
+{
+  "text": "You're the best",
+  "label": "thanks"
+},
+{
+  "text": "Thanks for your time",
+  "label": "thanks"
+},
+{
+  "text": "I really appreciate that",
+  "label": "thanks"
+},
+{
+  "text": "That's really kind of you",
+  "label": "thanks"
+},
+{
+  "text": "Thanks for your patience",
+  "label": "thanks"
+},
+{
+  "text": "I'm thankful for your guidance",
+  "label": "thanks"
+},
+{
+  "text": "You're very helpful",
+  "label": "thanks"
+},
+{
+  "text": "Thanks for pointing that out",
+  "label": "thanks"
+},
+{
+  "text": "I'm so grateful for your help",
+  "label": "thanks"
+},
+{
+  "text": "That's awesome, thanks",
+  "label": "thanks"
+},
+{
+  "text": "Thanks for the information",
+  "label": "thanks"
+},
+{
+  "text": "How's the weather?",
+  "label": "weather"
+},
+{
+  "text": "What's the weather today?",
+  "label": "weather"
+},
+{
+  "text": "Is it raining today?",
+  "label": "weather"
+},
+{
+  "text": "What's the forecast for tomorrow?",
+  "label": "weather"
+},
+{
+  "text": "How's the weather looking for the weekend?",
+  "label": "weather"
+},
+{
+  "text": "Is it going to be sunny today?",
+  "label": "weather"
+},
+{
+  "text": "What's the temperature outside?",
+  "label": "weather"
+},
+{
+  "text": "Will it snow tomorrow?",
+  "label": "weather"
+},
+{
+  "text": "What's the weather like right now?",
+  "label": "weather"
+},
+{
+  "text": "Is there a chance of thunderstorms today?",
+  "label": "weather"
+},
+{
+  "text": "What's the humidity level today?",
+  "label": "weather"
+},
+{
+  "text": "Will it be windy tomorrow?",
+  "label": "weather"
+},
+{
+  "text": "What's the UV index today?",
+  "label": "weather"
+},
+{
+  "text": "Is it going to be a hot day today?",
+  "label": "weather"
+},
+{
+  "text": "What's the air quality like today?",
+  "label": "weather"
+},
+{
+  "text": "Will it be cloudy tomorrow?",
+  "label": "weather"
+},
+{
+  "text": "What's the weather forecast for the next 5 days?",
+  "label": "weather"
+},
+{
+  "text": "Is there a weather warning in effect?",
+  "label": "weather"
+},
+{
+  "text": "What's the wind chill factor today?",
+  "label": "weather"
+},
+{
+  "text": "Will it be a good day for outdoor activities?",
+  "label": "weather"
+}
+
+]

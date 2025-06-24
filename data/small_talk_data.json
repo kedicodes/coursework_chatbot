@@ -1,0 +1,222 @@
+[
+  {
+  "intent": "greeting",
+  "questions": [
+    "Hi",
+    "Hello",
+    "Hey",
+    "Hi there"
+  ],
+  "answers": [
+    "Hey! How can I help you?"
+  ]
+},
+{
+  "intent": "chitchat",
+  "questions": [
+    "How are you?",
+    "How are you doing?"
+  ],
+  "answers": [
+    "I am just a UniBot, ready to assist you! How can I help?"
+  ]
+},
+{
+  "intent": "goodbye",
+  "questions": [
+    "Bye",
+    "See you later",
+    "Goodbye"
+  ],
+  "answers": [
+    "Goodbye!",
+    "See you later!",
+    "Bye! Have a great day!"
+  ]
+},
+{
+  "intent": "thanks",
+  "questions": [
+    "Thanks",
+    "Thank you",
+    "That's helpful"
+  ],
+  "answers": [
+    "You're welcome!",
+    "Happy to help!",
+    "Anytime!"
+  ]
+},
+{
+  "intent": "update_user_name",
+  "questions": [
+    "I would like to update my name",
+    "Update my name",
+    "Please update my name?"
+  ],
+  "answers": [
+    ""
+  ]
+},
+{
+  "intent": "chitchat",
+  "questions": [
+    "Are you hungry?",
+    "When do you eat?"
+  ],
+  "answers": [
+    "I am a bot and I don't eat",
+    "I would say that I had a bite but I don't eat"
+  ]
+},
+{
+  "intent": "chitchat",
+  "questions": [
+    "What can you do?",
+    "What do you do??",
+    "Why do you exist?"
+  ],
+  "answers": [
+    "I am a UniBot,I can assist you with your university application, \n answer your questions, or just chat with you! "
+  ]
+},
+{
+  "intent": "chitchat",
+  "questions": [
+    "How old are you?",
+    "What's your age?"
+  ],
+  "answers": [
+    "I am a UniBot and don't have an age.",
+    "I am a bot so I can't answer that!"
+  ]
+},
+{
+  "intent": "weather",
+  "questions": [
+    "What's the weather today?",
+    "How's the weather?"
+  ],
+  "answers": [
+    "You can check the weather using a weather app or website."
+  ]
+},
+{
+  "intent": "chitchat",
+  "questions": [
+    "Tell me a joke",
+    "Do you know any jokes?"
+  ],
+  "answers": [
+    "Why don't scientists trust atoms? Because they make up everything!"
+  ]
+},
+{
+  "intent": "help",
+  "questions": [
+    "Help",
+    "How can you assist?",
+    "How can you help?"
+  ],
+  "answers": [
+    "I can assist you with your university application, answer your questions, or just chat with you!",
+    "I can help with you University application, answer questions, or just chat with you!"
+  ]
+},
+{
+  "intent": "study_options",
+  "questions": [
+    "list of degrees",
+    "list of degrees offered",
+    "list of degrees offered in",
+    "what are the degrees offered in your college?",
+    "degrees?",
+    "degrees offered",
+    "degrees offered in Thuto Ke Lesedi University",
+    "degrees you offer",
+    "degrees you have",
+    "branches?",
+    "degrees available at UNI?",
+    "can you tell me the degrees available in UNI?",
+    "can you tell me the branches available in UNI?"
+  ],
+  "answers": [
+    "Thuto Ke Lesedi offers degrees across multiple level of study. We have Undergraduate and Postgraduate degrees. \n The Faculties available are Engineering & IT, Humanities, Health Sciences and, Economics & Management Sciences(EMS). \n Would you like to know more about a specific faculty or level of study?"
+  ]
+},
+{
+  "intent": "study_options",
+  "questions": [
+    "How long are your degrees",
+    "How long does it take to complete a degree",
+    "How many years do we study?"
+  ],
+  "answers": [
+    "All our Undergraduate degrees except Health Sciences take a period of 3 years\n Health Sciences degrees take a period of 4 years to complete\n Our Postgraduate degrees take a period of 2 years Part-time for Masters and a period of 1 year for Hons",
+    "Undergraduate degrees are 3 year degrees, Health Sciences degrees are 4 year degrees \n For Postgraduate degrees they are 1 year degrees for Hons and 2 years for Masters Part-time"
+  ]
+},
+{
+  "intent": "study_options",
+  "questions": [
+    "Which degrees do you have in the Faculty of Economics & Management Sciences",
+    "Degrees in the EMS faculty",
+    "What degrees are available in the Faculty of EMS"
+  ],
+  "answers": [
+    "For Undergraduate study level, We have Bachelor of Commerce Accounting sciences, Bachelor of Commerce Entrepreneurship & Business Management, Bachelor of Commerce Economics, Bachelor of Commerce Marketing \n For Postgraduate study level, We have Bachelor of Commerce(Hons) Accounting Sciences, Bachelor of Commerce(Hons) Marketing, Masters of Commerce Accounting Sciences, Masters of Commerce Marketing "
+  ]
+},
+{
+  "intent": "study_options",
+  "questions": [
+    "Which degrees do you have in the Faculty of Engineering & IT ",
+    "Degrees in the Engineering & IT faculty",
+    "What degrees are available in the Faculty of Engineering & IT"
+  ],
+  "answers": [
+    "For Undergraduate study level, We have Bachelor of IT Human Computer Interaction, Bachelor of IT Information Technology, Bachelor of IT Information Systems, Bachelor of Engineering Civil Engineering, Bachelor of Engineering Mechanical Engineering & Electronics \n For Postgraduate study level, We have Bachelor of IT (Hons) Information Systems, Bachelor of IT (Hons) Computer Science, Masters of IT Information Systems, Masters of Engineering Electronics & Computing "
+  ]
+},
+{
+  "intent": "study_options",
+  "questions": [
+    "Which degrees do you have in the Faculty of Humanities ",
+    "Degrees in the Humanities faculty",
+    "What degrees are available in the Faculty of Humanities"
+  ],
+  "answers": [
+    "For Undergraduate study level, We have Bachelor of Arts Law, Bachelor of Arts Psychology & Sociology, Bachelor of Arts Audiology, Bachelor of Political Sciences, Bachelor of Information Design \n For Postgraduate study level, We have Bachelor of Arts (Hons) Law, Bachelor of Arts (Hons) Audiology, Masters of Arts Community & Development Studies, Masters of Arts Policy "
+  ]
+},
+{
+  "intent": "study_options",
+  "questions": [
+    "Which degrees do you have in the Faculty of Health Sciences ",
+    "Degrees in the Health Sciences faculty",
+    "What degrees are available in the Faculty of Health Sciences"
+  ],
+  "answers": [
+    "For Undergraduate study level, We have Bachelor of Science Nursing, Bachelor of Science Occupational Therapy, Bachelor of Science Medicine, Bachelor of Science Pharmacy, Bachelor of Science Physiotherapy \n For Postgraduate study level, We have Bachelor of Science (Hons) Dietetics, Bachelor of Science (Hons) Human Physiology & Occupational Hygiene, Masters of Medical Pharmacology, Masters of Occupational Therapy "
+  ]
+},
+{
+  "intent": "fallback",
+  "questions": [
+    "*"
+  ],
+  "answers": [
+    "I'm sorry, I don't have an answer for that right now."
+  ]
+},
+{
+  "intent": "application",
+  "questions": [
+    "I want to apply to the university"
+  ],
+  "answer": [
+    "Great! I can help you with that. Please have your documents ready"
+  ]
+},
+
+]
